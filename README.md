@@ -4,8 +4,10 @@ Departamento de Ciência da Computação – Universidade Federal de Minas Gerai
                                                                                       
 Humberto Lopes de Morais, Wilson Moreira Tavares
 
-31270-901 – Belo Horizonte – MG– Brasil
 {humberto.lopes, wilsonmt}.dcc.ufmg.br
+
+31270-901 – Belo Horizonte – MG– Brasil
+
 
 
 Arquivos:
