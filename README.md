@@ -1,4 +1,5 @@
-                                            Chega de Fiu Fiu
+Chega de Fiu Fiu
+                                                                                      
 Humberto Lopes de Morais, Wilson Moreira Tavares
 Departamento de Ciência da Computação – Universidade Federal de Minas Gerais (UFMG)
 31270-901 – Belo Horizonte – MG– Brasil
