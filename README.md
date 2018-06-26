@@ -1,7 +1,9 @@
 Chega de Fiu Fiu
+
+Departamento de Ciência da Computação – Universidade Federal de Minas Gerais (UFMG)
                                                                                       
 Humberto Lopes de Morais, Wilson Moreira Tavares
-Departamento de Ciência da Computação – Universidade Federal de Minas Gerais (UFMG)
+
 31270-901 – Belo Horizonte – MG– Brasil
 {humberto.lopes, wilsonmt}.dcc.ufmg.br
 
